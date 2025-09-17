@@ -3,7 +3,7 @@ PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:foeveryy@gmail.com
+X-WR-CALNAME:ZJUNBdesignCalender-yy
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -160,3 +160,4 @@ SUMMARY:研究生论文写作指导-周磊晶
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
+
